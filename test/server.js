@@ -16,7 +16,9 @@ test('whoami', function (t) {
 })
 
 test('done', function (t) {
+    console.log('here')
     server.close(function () {
+        console.log('here2')
         t.end()
     })
 })
