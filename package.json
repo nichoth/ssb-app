@@ -31,6 +31,7 @@
     "eslint-config-minlint": "^2.0.0",
     "eslint-plugin-chai-friendly": "^0.4.1",
     "getport": "^0.1.0",
+    "node-sass": "^4.12.0",
     "tape": "^4.11.0",
     "uglify-js": "^3.6.0",
     "unassertify": "^2.1.1"
